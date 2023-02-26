@@ -16,3 +16,16 @@ p a{
     color: aquamarine;
 
 }
+span {
+    font-size: 21px;
+    color: white;
+    opacity: 50%;
+}
+
+img{
+    padding: 50px 50px;
+}
+footer{
+    padding: 50px 50px;
+    color: gray;
+}
